@@ -65,6 +65,9 @@ Juan Pablo Conrado Molina
 Desarrollador Full Stack | React.js | Spring Boot | MySQL | eng Electronic Student
 
 
+Plan a seguir con:
+
+
 | Nivel       | Mejora                                | Descripción                                                                       |
 | :---------- | :------------------------------------ | :-------------------------------------------------------------------------------- |
 | Fácil    | **Validaciones en el frontend**       | Evita enviar campos vacíos o sueldos negativos.                                   |
