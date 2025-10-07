@@ -70,13 +70,13 @@ Plan a seguir con:
 
 | Nivel       | Mejora                                | Descripción                                                                       |
 | :---------- | :------------------------------------ | :-------------------------------------------------------------------------------- |
-| Fácil    | **Validaciones en el frontend**       | Evita enviar campos vacíos o sueldos negativos.                                   |
+| Fácil    | **Validaciones en el frontend**       | Evitar enviar campos vacíos o sueldos negativos.                                   |
 |  Fácil    | **Mensajes de confirmación**          | Mostrar alertas tipo “Empleado agregado con éxito” (usando SweetAlert2).          |
-|  Medio    | **Paginación y búsqueda**             | Si hay muchos empleados, agrega filtros o un buscador por nombre.                 |
-|  Medio    | **Ordenar por sueldo o departamento** | Usa un botón o un `select` para ordenar los resultados.                           |
-|  Avanzado | **Subida de fotos o CV**              | Agrega una columna `foto` en la BD y un `input type="file"` en React.             |
-|  Avanzado | **Autenticación (login)**             | Protege las rutas con un `Login` básico con JWT o Spring Security.                |
-|  Extra    | **Despliegue**                        | Sube tu API a **Render** o **Railway**, y tu frontend a **Vercel** o **Netlify**. |
+|  Medio    | **Paginación y búsqueda**             | Si hay muchos empleados, agregar filtros o un buscador por nombre.                 |
+|  Medio    | **Ordenar por sueldo o departamento** | Usra un botón o un `select` para ordenar los resultados.                           |
+|  Avanzado | **Subida de fotos o CV**              | Agregar una columna `foto` en la BD y un `input type="file"` en React.             |
+|  Avanzado | **Autenticación (login)**             | Proteger las rutas con un `Login` básico con JWT o Spring Security.                |
+|  Extra    | **Despliegue**                        | Subir  API a **Render** o **Railway**, y tu frontend a **Vercel** o **Netlify**. |
 
 
 
